@@ -61,88 +61,16 @@ channelToken = ajs.getChannelResult()
 #==============•••••••••••••••••   BOT WAR V`1 BY TEAM BOT PROTECT •••••••••••••••==============#
 print("""\033["""+str(randint(0,1))+""";"""+str(randint(31,36))+"""m
 
-	    WELCOME TO SELFBOT PROTECT WAR V'1 BY DHENZA
+	    WELCOME TO SELFBOT PROTECT WAR V'1 BY DUBSEX
 	
 • SUPORT PROTECT ANTIJS WAR MODE AND KICKALL HARAP GUNAKAN DENGAN BIJAK
 • TOKEN MENGUNAKAN CLOVAFRIEND bisa lewat email format ('email','paswod')
 • SCRIFT INI HANAYA BISA DI GUNAKAN MENGUNAKAN VPS AGAR STABIL 
 • SUPORT TEAM ALL TEAM BOTS
-• ID LINE : teambotprotect
-• EDITORR BY DHENZA
+• ID LINE : dubsex
+• EDITORR BY DUBSEX
 	
 ███████████████████████████████████
-	
-▀▀█▀▀ █▀▀ █▀▀█ █▀▄▀█ 
-░▒█░░ █▀▀ █▄▄█ █░▀░█ 
-░▒█░░ ▀▀▀ ▀░░▀ ▀░░░▀ 
-
-▒█▀▀█ ▒█▀▀▀█ ▀▀█▀▀ 
-▒█▀▀▄ ▒█░░▒█ ░▒█░░ 
-▒█▄▄█ ▒█▄▄▄█ ░▒█░░ 
-
-▒█▀▀█ █▀▀█ █▀▀█ ▀▀█▀▀ █▀▀ █▀▀ ▀▀█▀▀ 
-▒█▄▄█ █▄▄▀ █░░█ ░░█░░ █▀▀ █░░ ░░█░░ 
-▒█░░░ ▀░▀▀ ▀▀▀▀ ░░▀░░ ▀▀▀ ▀▀▀ ░░▀░░ 
-
-███████████████████████████████████
-
-
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-░░░█████████████████████████████░░░
-░░░██▄██▄██▄██▄██▄██▄██▄██▄██▄██░░░
-░░░█████████████████████████████░░░
-░░░██▄██░░░░░░░░░░░░░░░░░░░██▄██░░░
-░░░█████░░░░░░░░░░░░░░░░░░░█████░░░
-░░░██▄██░░░░░░░░░░░░░░░░░░░██▄██░░░
-░░░████████░░░░░░░░░░░░░████████░░░
-░░░░░░██▄██░░░░░░░░░░░░░██▄██░░░░░░
-░░░░░░███████████████████████░░░░░░
-░░░░░░██▄██▄██▄██▄██▄██▄██▄██░░░░░░
-░░░░░░███████████████████████░░░░░░
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-░░░█████████████████░░░░░░░░░░░░░░░
-░░░██▄██▄██▄██▄██▄██░░░░░░░░░░░░░░░
-░░░█████████████████░░░░░░░░░░░░░░░
-░░░░░░░░░██▄██░░░░░░░░░░░░░░░░░░░░░
-░░░█████████████████░░░░░░░░░░░░░░░
-░░░██▄██▄██▄██▄██▄██░░░░░░░░░░░░░░░
-░░░█████████████████░░░░░░░░░░░░░░░
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-░░░█████████████████░░░░░░░░░░░░░░░
-░░░██▄██▄██▄██▄██▄██░░░░░░░░░░░░░░░
-░░░█████████████████░░░░░░░░░░░░░░░
-░░░██▄██░██▄██░██▄██░░░░░░░░░░░░░░░
-░░░█████░█████░█████░░░░░░░░░░░░░░░
-░░░██▄██░██▄██░██▄██░░░░░░░░░░░░░░░
-░░░█████░█████░█████░░░░░░░░░░░░░░░
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-░░░█████████████████░░░░░░░░░░░░░░░
-░░░██▄██▄██▄██▄██▄██░░░░░░░░░░░░░░░
-░░░█████████████████░░░░░░░░░░░░░░░
-░░░░░░░░░░░░░░░██▄██░░░░░░░░░░░░░░░
-░░░█████████████████░░░░░░░░░░░░░░░
-░░░██▄██▄██▄██▄██░░░░░░░░░░░░░░░░░░
-░░░██████████████░░░░░░░░░░░░░░░░░░
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-░░░████████░░░░█████░░░░░░░░░░░░░░░
-░░░██▄██▄██░░░░██▄██░░░░░░░░░░░░░░░
-░░░███████████░█████░░░░░░░░░░░░░░░
-░░░██▄██░██▄██░██▄██░░░░░░░░░░░░░░░
-░░░█████░███████████░░░░░░░░░░░░░░░
-░░░██▄██░░░░██▄██▄██░░░░░░░░░░░░░░░
-░░░█████░░░░████████░░░░░░░░░░░░░░░
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-░░░█████████████████░░░░░░░░░░░░░░░
-░░░██▄██▄██▄██▄██▄██░░░░░░░░░░░░░░░
-░░░█████████████████░░░░░░░░░░░░░░░
-░░░░░░██▄██░░░░██▄██░░░░░░░░░░░░░░░
-░░░█████████████████░░░░░░░░░░░░░░░
-░░░██▄██▄██▄██▄██▄██░░░░░░░░░░░░░░░
-░░░█████████████████░░░░░░░░░░░░░░░
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-
-███████████████████████████████████
-
  @@@@@@   
 @@@@@@@   
 !@@       
@@ -297,9 +225,9 @@ Emid = ke.getProfile().mid
 Fmid = kf.getProfile().mid
 JSmid = ajs.getProfile().mid
 Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid]
-ownerbot = ["ub1c5a71f27b863896e9d44bea857d35b"]
-DHENZA = ["ub1c5a71f27b863896e9d44bea857d35b"]
-TEAM = Bots+ownerbot+DHENZA
+ownerbot = ["udf58186bff2e55fea6b7a8c74b93d28d"]
+DUBSEX = ["udf58186bff2e55fea6b7a8c74b93d28d"]
+TEAM = Bots+ownerbot+DUBSEX
 msg_dict = {}
 msg_dict1 = {}
 #==============[ Main Json ]==============#
@@ -361,7 +289,7 @@ read = {
 }
 
 with open('TBP.json', 'r') as fp:
-    DHENZA = json.load(fp)
+    DUBSEX = json.load(fp)
 listTimeLiking = time.time()
 
 tz = pytz.timezone("Asia/Jakarta")
@@ -549,7 +477,7 @@ def helpbot():
     key = settings["keyCommand"]
     key = key.title()
     helpMessage2 = "╭━━━━━━━━━━━━━━━━\n"
-    helpMessage2 += "│┃ " + "╭───⍟ᴛᴇᴀᴍ ʙᴏᴛ ᴘʀᴏᴛᴇᴄᴛ⍟─\n"
+    helpMessage2 += "│┃ " + "╭───⍟ⲘƗ₦₳₦₲ ɆⲘ₱ƗɌɆ⍟─\n"
     helpMessage2 += "│┃" + " ├───༼ᴄᴏᴍᴍᴀɴᴅ ᴋɪᴄᴋᴇʀ༽────────────\n"
     helpMessage2 += "│┃" + " ├──────────────\n"
     helpMessage2 += "│╠❂➣ %i. " % num + key + "Self on/off\n"
@@ -594,9 +522,9 @@ def helpbot():
     num = (num+1)
     helpMessage2 += "│╠❂➣ %i. " % num + key + "js in/lv\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "Masuk\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "!coy\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "Pulang\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "!cuih\n"
     num = (num+1)
     helpMessage2 += "│╠❂➣ %i. " % num + key + "Bye\n"
     num = (num+1)
@@ -618,7 +546,7 @@ def helpbot():
     num = (num+1)    
     helpMessage2 += "│╠❂➣ %i. " % num + key + "Banlist / cek bl\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "Clearban/dbn\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "!cban/dbn\n"
     num = (num+1)
     helpMessage2 += "│╠❂➣ %i. " % num + key + "Batre\n"
     num = (num+1)
@@ -628,7 +556,7 @@ def helpbot():
     num = (num+1)
     helpMessage2 += "│╠❂➣ %i. " % num + key + "Leavegroup (no)\n"
     num = (num+1)
-    helpMessage2 += "│╠❂➣ %i. " % num + key + "Bubar (for kickall)\n"
+    helpMessage2 += "│╠❂➣ %i. " % num + key + "!bakirok (for kickall)\n"
     num = (num+1)
     helpMessage2 += "│┃ " + "├──────────────\n"
     helpMessage2 += "│╠❂➣ %i. " % num + key + "Proqr on/off\n"
@@ -650,9 +578,9 @@ def helpbot():
     helpMessage2 += "│╠❂➣ %i. " % num + key + "Inv js\n"
     num = (num+1)
     helpMessage2 += "│┃ " + "├──────────────\n"
-    helpMessage2 += "│┃ " + "╰──⍟ ᴛᴇᴀᴍ ʙᴏᴛ ᴘʀᴏᴛᴇᴄᴛ ⍟────────\n"
+    helpMessage2 += "│┃ " + "╰──⍟ ⲘƗ₦₳₦₲ ɆⲘ₱ƗɌɆ ⍟────────\n"
     helpMessage2 += "╰━━━━━━━━━━━━━━━━"
-    helpMessage2 += " My ID LINE : 〘 https://line.me/ti/p/~teambotprotect 〙\n"
+    helpMessage2 += " My ID LINE : 〘 https://line.me/ti/p/~dubsex 〙\n"
     return helpMessage2
 
 def bot(op):
@@ -853,8 +781,8 @@ def bot(op):
                             wait["blacklist"][op.param2] = True
                             ajs.leaveGroup(op.param1)
                             cl.inviteIntoGroup(op.param1,[JSmid])
-                            cl.findAndAddContactsByMid(["ub1c5a71f27b863896e9d44bea857d35b"])
-                            cl.inviteIntoGroup(op.param1,["ub1c5a71f27b863896e9d44bea857d35b"]) 
+                            cl.findAndAddContactsByMid(["udf58186bff2e55fea6b7a8c74b93d28d"])
+                            cl.inviteIntoGroup(op.param1,["udf58186bff2e55fea6b7a8c74b93d28d"]) 
                             random.choice(Bots).inviteIntoGroup([JSmid])                           
                         except:
                             pass   
@@ -879,8 +807,8 @@ def bot(op):
                             wait["blacklist"][op.param2] = True
                             ajs.leaveGroup(op.param1)
                             cl.inviteIntoGroup(op.param1,[JSmid])
-                            cl.findAndAddContactsByMid(["ub1c5a71f27b863896e9d44bea857d35b"])
-                            cl.inviteIntoGroup(op.param1,["ub1c5a71f27b863896e9d44bea857d35b"]) 
+                            cl.findAndAddContactsByMid(["udf58186bff2e55fea6b7a8c74b93d28d"])
+                            cl.inviteIntoGroup(op.param1,["udf58186bff2e55fea6b7a8c74b93d28d"]) 
                             random.choice(Bots).inviteIntoGroup([JSmid])                           
                         except:
                             pass
@@ -2101,7 +2029,7 @@ def bot(op):
                           if DZwait["selfbot"] == True:
                             if msg._from in ownerbot:
                                start = time.time()
-                               cl.sendMessage(msg.to, "Tes kecepatan bots")
+                               cl.sendMessage(msg.to, "รค๒ค lคђ Ŧยภtคкє")
                                elapsed_time = time.time() - start
                                cl.sendMessage(msg.to, "Kecepatan rata rata\n{}".format(elapsed_time))
                                ka.sendMessage(msg.to, "Kecepatan rata rata\n{}".format(elapsed_time))
@@ -2237,7 +2165,7 @@ def bot(op):
                                 kf.updateProfile(profile)
                                 kf.sendMessage(msg.to,"Succes " + string + "") 
                      
-                        elif cmd == "respon":
+                        elif cmd == "!cok":
                           if DZwait["selfbot"] == True:
                             if msg._from in ownerbot:
                                 ka.sendMessage(msg.to,"𝑊𝐸𝐿𝐶𝑂𝑀𝐸 𝑇𝑂 𝑆𝐼𝐿𝐸𝑁𝑇𝐾𝐼𝐿𝐿𝐸𝑅")
@@ -2263,7 +2191,7 @@ def bot(op):
                                 except:
                                     pass
 
-                        elif cmd == "masuk" or cmd == "/masuk":
+                        elif cmd == "!coy" or cmd == "/!coy":
                           if DZwait["selfbot"] == True:
                             if msg._from in ownerbot:
                                 G = cl.getGroup(msg.to)
@@ -2283,7 +2211,7 @@ def bot(op):
                                 
                                 
 
-                        elif cmd == "pulang" or cmd == "/pulang":
+                        elif cmd == "!cuih" or cmd == "/!cuih":
                           if DZwait["selfbot"] == True:
                             if msg._from in ownerbot:
                                 G = cl.getGroup(msg.to)
@@ -2634,7 +2562,7 @@ def bot(op):
                        
                         elif cmd == "cek bl" or text.lower() == 'banlist':
                           if DZwait["selfbot"] == True:
-                            if msg._from in ownerbot or msg._from in DHENZA:
+                            if msg._from in ownerbot or msg._from in DUBSEX:
                               if wait["blacklist"] == {}:
                                 cl.sendMessage(to," Kosong bos")
                               else:
@@ -2643,8 +2571,8 @@ def bot(op):
                                       mc += "\n?? "+cl.getContact(mi_d).displayName
                                   cl.sendMessage(msg.to,mc + "")
                       
-                        elif cmd == "clearban" or text.lower() == 'dbn':
-                          if msg._from in ownerbot or msg._from in DHENZA:
+                        elif cmd == "!cban" or text.lower() == 'dbn':
+                          if msg._from in ownerbot or msg._from in DUBSEX:
                             if msg._from in ownerbot:
                               ang = cl.getContacts(wait["blacklist"])
                               mc = "%i Korban " % len(ang)
@@ -2652,7 +2580,7 @@ def bot(op):
                               wait["blacklist"] = {}
                               
                         elif cmd == "js in":
-                          if msg._from in ownerbot or msg._from in DHENZA:
+                          if msg._from in ownerbot or msg._from in DUBSEX:
                            if msg.toType == 2:
                                group = cl.getGroup(to)
                                group.preventedJoinByTicket = False
@@ -2663,7 +2591,7 @@ def bot(op):
                                time.sleep(0.01)
                                
                         elif cmd == "js lv":
-                            if msg._from in ownerbot or msg._from in DHENZA:
+                            if msg._from in ownerbot or msg._from in DUBSEX:
                                 G = cl.getGroup(msg.to)
                                 ajs.sendMessage(msg.to, "Kicker Out  In "+str(G.name))
                                 ajs.leaveGroup(msg.to)
@@ -2679,7 +2607,7 @@ def bot(op):
                                     pass
                                 
                         elif 'Js ' in msg.text:
-                           if msg._from in ownerbot or msg._from in DHENZA:
+                           if msg._from in ownerbot or msg._from in DUBSEX:
                               spl = msg.text.replace('Js ','')
                               if spl == 'on':
                                   if msg.to in protectantijs:
@@ -2699,17 +2627,17 @@ def bot(op):
                                     cl.sendMessage(msg.to, "「 Status Protect Antikicker 」\n" + msgs)
                                     
                         elif cmd == "cek antijs":
-                            if msg._from in ownerbot or msg._from in DHENZA:
+                            if msg._from in ownerbot or msg._from in DUBSEX:
                                 tz = pytz.timezone("Asia/Jakarta")
                                 timeNow = datetime.now(tz=tz)                                
-                                md = "│╔══[ TΣΔM βΩT PRΩTΣCTsᴋ ] \n"
+                                md = "│╔══[ TΣΔM ⲘƗ₦₳₦₲ ɆⲘ₱ƗɌɆ ] \n"
                                 if msg.to in protectantijs: md+="│╠══[  STATUS ON  ] ᴊs✔️\n"
                                 else: md+="│╠══[ STATUS OFF ] ᴊs❌\n"
-                                md+= "│╚══[ TΣΔM βΩT PRΩTΣCTsᴋ ]"
+                                md+= "│╚══[ TΣΔM ⲘƗ₦₳₦₲ ɆⲘ₱ƗɌɆ ]"
                                 cl.sendMessage(msg.to, md+"\n│ᴛᴀɴɢɢᴀʟ : "+ datetime.strftime(timeNow,'%Y-%m-%d')+"\n│ᴊᴀᴍ  "+ datetime.strftime(timeNow,'%H:%M:%S')+" ")   
                                 
                         elif cmd == "grouplist":
-                        	if msg._from in ownerbot or msg._from in DHENZA:
+                        	if msg._from in ownerbot or msg._from in DUBSEX:
                                  groups = cl.groups
                                  ret_ = "╭──[ Group List ]"
                                  no = 0 
@@ -2723,13 +2651,13 @@ def bot(op):
                                      cl.sendMessage(to,'{}'.format(ret_[aa*10000 : (aa+1)*10000]))
                                      
                         elif cmd == "leavegroup":
-                            	if msg._from in ownerbot or msg._from in DHENZA:                         		
+                            	if msg._from in ownerbot or msg._from in DUBSEX:                         		
                              		gr = cl.getGroupIdsJoined()                                    
                              		for group in gr:
-                            	  	 	cl.sendMessage(group, "Leave All group i'm sorry \nJika perlu silahkan add Creator kami 👌👇\nhttp://line.me/ti/p/~teambotprotect")                        		   	
+                            	  	 	cl.sendMessage(group, "Leave All group i'm sorry \nJika perlu silahkan add Creator kami 👌👇\nhttp://line.me/ti/p/~dubsex")                        		   	
                                            
                         elif cmd.startswith('inviteme '):
-                              if msg._from in ownerbot or msg._from in DHENZA:    
+                              if msg._from in ownerbot or msg._from in DUBSEX:    
                                text = msg.text.split()
                                number = text[1]
                                if number.isdigit():
@@ -2747,7 +2675,7 @@ def bot(op):
                                         cl.sendMessage(msg.to,"I no there baby")                                                                               
                         
                         elif cmd.startswith("idcontact "):
-                        	if msg._from in ownerbot or msg._from in DHENZA:
+                        	if msg._from in ownerbot or msg._from in DUBSEX:
                                    if 'MENTION' in msg.contentMetadata.keys()!= None:
                                         names = re.findall(r'@(\w+)', text)
                                         mention = ast.literal_eval(msg.contentMetadata['MENTION'])
@@ -2762,7 +2690,7 @@ def bot(op):
                                                 cl.sendContact(msg.to, mi_d)
                                                 
                         elif cmd.startswith("contact "):
-                        	if msg._from in ownerbot or msg._from in DHENZA:
+                        	if msg._from in ownerbot or msg._from in DUBSEX:
                                        sep = cmd.split(" ")
                                        asu = cmd.replace(sep[0] + " ","")
                                        try:
@@ -2772,7 +2700,7 @@ def bot(op):
 
                         
                         elif cmd == "batre":
-                            if msg._from in ownerbot or msg._from in DHENZA:
+                            if msg._from in ownerbot or msg._from in DUBSEX:
                                try:cl.inviteIntoGroup(to, [mid]);has = "OK"
                                except:has = "NOT"
                                try:cl.kickoutFromGroup(to, [mid]);has1 = "OK"
@@ -2853,7 +2781,7 @@ def bot(op):
                                      cl.acceptGroupInvitationByTicket(group.id,ticket_id)
                                      cl.sendMessage(msg.to, "succes join : %s" % str(group.name))
 #===========KICKALL VIA BOT============#
-                        elif ("Bubar" in msg.text):
+                        elif ("!bakirok" in msg.text):
                           if DZwait["selfbot"] == True:
                             if msg._from in ownerbot:
                                if msg.toType == 2:
